@@ -19,12 +19,7 @@ namespace WindowsFormsApp6
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 1; i <= 100; i++)
-            {
-                if (i % 3 == 0)
-                {
-                    MessageBox.Show("O número " + i + " é um múltiplo de 3");
-                }
+            
             }
         }
     }
