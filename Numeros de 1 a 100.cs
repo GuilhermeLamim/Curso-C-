@@ -19,12 +19,7 @@ namespace WindowsFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int soma = 0;
-            for (int i = 1; i < 100; i++ )
-            {
-                soma += i;
-            }
-            MessageBox.Show("A soma dos números de 1 até 1000 é: " + soma);
+            
         }
     }
 }
